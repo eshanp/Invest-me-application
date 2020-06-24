@@ -1,0 +1,9 @@
+E:\NUIG\C#assignment4\Assignment4\obj\Debug\Assignment4.csprojAssemblyReference.cache
+E:\NUIG\C#assignment4\Assignment4\obj\Debug\Assignment4.Form1.resources
+E:\NUIG\C#assignment4\Assignment4\obj\Debug\Assignment4.Properties.Resources.resources
+E:\NUIG\C#assignment4\Assignment4\obj\Debug\Assignment4.csproj.GenerateResource.cache
+E:\NUIG\C#assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+E:\NUIG\C#assignment4\Assignment4\bin\Debug\Assignment4.exe
+E:\NUIG\C#assignment4\Assignment4\bin\Debug\Assignment4.pdb
+E:\NUIG\C#assignment4\Assignment4\obj\Debug\Assignment4.exe
+E:\NUIG\C#assignment4\Assignment4\obj\Debug\Assignment4.pdb
